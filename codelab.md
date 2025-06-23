@@ -292,9 +292,9 @@ EsperarTecla:
 ## Indicaciones de entrega
 
 - La entrega se realizará a través de GitHub Classroom, en el repositorio asignado para las [prácticas de laboratorio](https://classroom.github.com/a/p3Yq-RKA).
-- Crear una carpeta llamada "`Laboratorio-06`" dentro del repositorio. Esta carpeta será el contenedor para los archivos de esta práctica.
-- Dentro de la carpeta "`Laboratorio-06`", crear un archivo llamado **`desarrollo.asm`**. En este archivo, colocar todos los ejemplos y ejercicios desarrollados durante la práctica de laboratorio.
-- Crear un segundo archivo llamado **`tarea.asm`** dentro de la carpeta "`Laboratorio-06`". Este archivo debe contener la solución a la tarea propuesta.
+- Crear una carpeta llamada "**`Laboratorio-06`**" dentro del repositorio. Esta carpeta será el contenedor para los archivos de esta práctica.
+- Dentro de la carpeta "**`Laboratorio-06`**", crear un archivo llamado **`desarrollo.asm`**. En este archivo, colocar todos los ejemplos y ejercicios desarrollados durante la práctica de laboratorio.
+- Crear un segundo archivo llamado **`tarea.asm`** dentro de la carpeta "**`Laboratorio-06`**". Este archivo debe contener la solución a la tarea propuesta.
 
 ```
 └── Laboratorio-06
